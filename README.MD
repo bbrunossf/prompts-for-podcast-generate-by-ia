@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/LimeWire AI Studio Asset (1).jfif"
     width="300"
 />
 </p>
