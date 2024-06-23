@@ -33,7 +33,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Audio gerado pela OpenAI
 - LimeWire Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
